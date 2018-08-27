@@ -1,4 +1,4 @@
-# polymer-react [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/polymer-react) [![npm version](https://badge.fury.io/js/polymer-react.svg)](https://badge.fury.io/js/polymer-react)
+# polymer-react [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/polymer-react) [![npm version](https://badge.fury.io/js/polymer-react.svg)](https://badge.fury.io/js/polymer-react) [![Build Status](https://travis-ci.com/d4l3k/polymer-react.svg?branch=master)](https://travis-ci.com/d4l3k/polymer-react)
 
 Use React in Polymer 3 elements.
 
