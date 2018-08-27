@@ -1,0 +1,21 @@
+{
+  "name": "polymer-react",
+  "version": "1.0.0",
+  "description": "Use react in polymer elements",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "https://github.com/d4l3k/polymer-react",
+  "author": "Tristan Rice <rice@fn.lc>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -r dist && tsc"
+  },
+  "dependencies": {
+    "@polymer/polymer": "^3.0.5",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "importHelpers": true,
+    "outDir": "./dist/",
+    "rootDir": "./src/",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2015",
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "declaration": true
+  }
+}
