@@ -1,6 +1,6 @@
 {
   "name": "polymer-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use React in Polymer 3 elements.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
