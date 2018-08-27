@@ -1,5 +1,6 @@
-# polymer-react
-Include react in polymer elements.
+# polymer-react [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/polymer-react) [![npm version](https://badge.fury.io/js/polymer-react.svg)](https://badge.fury.io/js/polymer-react)
+
+Use React in Polymer 3 elements.
 
 ## Usage
 
