@@ -28,3 +28,9 @@ export class PRExample extends PolymerElement {
 
 customElements.define('pr-example', PRExample)
 ```
+
+## License
+
+polymer-react is licensed under the MIT license.
+
+Copyright (c) Tristan Rice 2018
