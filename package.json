@@ -8,7 +8,8 @@
   "author": "Tristan Rice <rice@fn.lc>",
   "license": "MIT",
   "scripts": {
-    "build": "rm -r dist && tsc"
+    "build": "rm -r dist && tsc",
+    "test": "yarn build"
   },
   "dependencies": {
     "@polymer/polymer": "^3.0.5",
